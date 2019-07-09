@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: index
 permalink: /
-title: "Latest Posts"
+title: "Miranda's Blog"
+excerpt: "   "
 ---
 
 <div class="tiles">
