@@ -30,3 +30,11 @@ tags:
 Dispatcher servlet이 처리하는 url패턴을 지정해주어야함.
 
 ### ApplicationContext
+ApplicationContext 인터페이스는 Spring을 사용한다면 누구나 잘 아는 인터페이스이다.
+ApplicationContext는 BeanFactory를 상속받고 있다.
+ApplicationContext의 역할
+- 오브젝트 생성
+- 관계 설정
+- 만들어지는 방식
+- 자동생성
+- 후처리
